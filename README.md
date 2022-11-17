@@ -1,2 +1,1 @@
-This repo contains simple and easy HTML projects
-more projects soon...
+
