@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="httpa://www.linkedin.com/in/elianamos-ea-b17807255">
+  <a href="https://www.linkedin.com/in/elianamos-ea-b17807255">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/Eliasayanaea">
