@@ -46,6 +46,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Elianamos29&theme=vision-friendly-dark&border_radius=9.7)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=Elianamos29&theme=vision-friendly-dark&border_radius=9.7&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Elianamos29&theme=vision-friendly-dark&border_radius=9.7&include_all_commits=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elianamos29&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
