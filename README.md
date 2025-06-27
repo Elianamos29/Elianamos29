@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/elianamos-ea-b17807255">
+  <a href="https://www.linkedin.com/in/elias-ayana-b17807255">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Eliasayanaea">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://x.com/elianamos29">
+    <img alt="X (formerly Twitter) URL" src="https://img.shields.io/badge/X-blue?style=for-the-badge&logo=X&logoColor=white&logoSize=auto&label=(formerly%20twitter)&color=black">
   </a>
   <h3>
   <img src="https://komarev.com/ghpvc/?username=Elianamos29&style=flat-square&color=blue" alt=""/>
